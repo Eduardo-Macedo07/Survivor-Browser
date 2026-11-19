@@ -7,7 +7,7 @@ mas as moedas douradas ganhas ficam para comprar personagens, armas, passivas e 
 ## Como jogar
 
 - **PC:** abra o arquivo `index.html` no navegador (Chrome, Edge ou Firefox). Não precisa instalar nada.
-- **Celular:** abra o link do GitHub Pages (https://eduardo-macedo07.github.io/Prontuario/) e toque e arraste
+- **Celular:** abra o link do GitHub Pages (https://eduardo-macedo07.github.io/Survivor-Browser/) e toque e arraste
   em qualquer lugar da tela para mover. Dá para usar "Adicionar à tela inicial" para abrir como um app.
 
 | Controle | Ação |
